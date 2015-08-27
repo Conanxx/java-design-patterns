@@ -1,4 +1,4 @@
-package com.iluwatar.abstractfactory;
+package main.java.com.iluwatar.abstractfactory;
 
 /**
  * 
